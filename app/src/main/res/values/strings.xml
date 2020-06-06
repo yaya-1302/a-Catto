@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kucing Kucing</string>
+    <string name="cat_name">Nama Kucing</string>
+    <string name="detail">Detail</string>
+    <string name="karakter">KARAKTER</string>
+    <string name="content_karakter">content karakter</string>
+    <string name="asal">ASAL USUL</string>
+    <string name="content_asal">content asal usul</string>
+    <string name="habit">HABIT</string>
+    <string name="content_habit">content habit</string>
+    <string name="TnT">TIPS AND TRICK</string>
+    <string name="content_TnT">content Tips&amp;Tricks</string>
+    <string name="about_name">Tiara Oktavian</string>
+    <string name="about_email">---email----</string>
+</resources>
